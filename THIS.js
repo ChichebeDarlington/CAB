@@ -117,6 +117,6 @@ Account.prototype.deposit = function (amount) {
   console.log(`Hi ${this.name}, your balance is ${this.balance}`);
 };
 
-console.log(odogwu.deposit(90));
-console.log(odogwu.bank);
-console.log(Account.prototype);
+// console.log(odogwu.deposit(90));
+// console.log(odogwu.bank);
+// console.log(Account.prototype);
